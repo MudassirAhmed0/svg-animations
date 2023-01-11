@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    place-items: center;
+    background-color: rgb(19, 68, 109);
+    height: 100vh;
+     
+}
+
+
+
+ 
+
+@keyframes line-anime {
+    to{
+        stroke-dashoffset: 0;
+    }
+}
